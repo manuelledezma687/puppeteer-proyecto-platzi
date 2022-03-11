@@ -1,0 +1,21 @@
+{
+  "name": "platzi-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --forceExit --detectOpenHandles"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  },
+  "dependencies": {
+    "chrome": "^0.1.0",
+    "jest": "^27.4.7",
+    "node": "^17.4.0",
+    "puppeteer": "^13.1.2"
+  }
+}
